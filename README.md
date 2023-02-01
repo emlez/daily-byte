@@ -7,5 +7,6 @@ Covering their twelve week curriculum before receiving randomly selected questio
 ## Week 1 - Strings
 
 1. Day 1 - [Reverse a String](https://github.com/emlez/daily-byte/blob/main/bytes/reverseString.ts)
-2. Day 2 - [Palindrome](https://github.com/emlez/daily-byte/blob/main/bytes/palindrome.ts)
-3. Day 3 - [Vacuum Cleaner](https://github.com/emlez/daily-byte/blob/main/bytes/vacuumCleaner.ts)
+1. Day 2 - [Palindrome](https://github.com/emlez/daily-byte/blob/main/bytes/palindrome.ts)
+1. Day 3 - [Vacuum Cleaner](https://github.com/emlez/daily-byte/blob/main/bytes/vacuumCleaner.ts)
+1. Day 4 - [Correct Capitalization](https://github.com/emlez/daily-byte/blob/main/bytes/correctCapitalization.ts)
