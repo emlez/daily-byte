@@ -12,3 +12,4 @@ Covering their twelve week curriculum before receiving randomly selected questio
 1. Day 4 - [Correct Capitalization](https://github.com/emlez/daily-byte/blob/main/bytes/correctCapitalization.ts)
 1. Day 5 - [Add Binary](https://github.com/emlez/daily-byte/blob/main/bytes/addBinary.ts)
 1. Day 6 - [Longest Common Prefix](https://github.com/emlez/daily-byte/blob/main/bytes/longestCommonPrefix.ts)
+1. Day 7 - [Valid Palindrome with Removal](https://github.com/emlez/daily-byte/blob/main/bytes/validPalindromeWithRemoval.ts)
