@@ -16,3 +16,4 @@ Covering their twelve week curriculum before receiving randomly selected questio
 1. Day 8 - [Two Sum](https://github.com/emlez/daily-byte/blob/main/bytes/twoSum.ts)
 1. Day 9 - [Jewels and Stones](https://github.com/emlez/daily-byte/blob/main/bytes/jewelsStones.ts)
 1. Day 10 - [Valid Anagram](https://github.com/emlez/daily-byte/blob/main/bytes/validAnagram.ts)
+1. Day 11 - [First Unique Character](https://github.com/emlez/daily-byte/blob/main/bytes/firstUniqueCharacter.ts)
