@@ -6,16 +6,19 @@ Covering their twelve week curriculum before receiving randomly selected questio
 
 ## Week 1 - Strings
 
-1. Day 1 - [Reverse a String](https://github.com/emlez/daily-byte/blob/main/bytes/reverseString.ts)
-1. Day 2 - [Palindrome](https://github.com/emlez/daily-byte/blob/main/bytes/palindrome.ts)
-1. Day 3 - [Vacuum Cleaner](https://github.com/emlez/daily-byte/blob/main/bytes/vacuumCleaner.ts)
-1. Day 4 - [Correct Capitalization](https://github.com/emlez/daily-byte/blob/main/bytes/correctCapitalization.ts)
-1. Day 5 - [Add Binary](https://github.com/emlez/daily-byte/blob/main/bytes/addBinary.ts)
-1. Day 6 - [Longest Common Prefix](https://github.com/emlez/daily-byte/blob/main/bytes/longestCommonPrefix.ts)
-1. Day 7 - [Valid Palindrome with Removal](https://github.com/emlez/daily-byte/blob/main/bytes/validPalindromeWithRemoval.ts)
-1. Day 8 - [Two Sum](https://github.com/emlez/daily-byte/blob/main/bytes/twoSum.ts)
-1. Day 9 - [Jewels and Stones](https://github.com/emlez/daily-byte/blob/main/bytes/jewelsStones.ts)
-1. Day 10 - [Valid Anagram](https://github.com/emlez/daily-byte/blob/main/bytes/validAnagram.ts)
-1. Day 11 - [First Unique Character](https://github.com/emlez/daily-byte/blob/main/bytes/firstUniqueCharacter.ts)
-1. Day 12 - [Spot the Difference](https://github.com/emlez/daily-byte/blob/main/bytes/spotDifference.ts)
-1. Day 13 - [Intersection of Numbers](https://github.com/emlez/daily-byte/blob/main/bytes/intersectionNumbers.ts)
+1. Day 1 - [Reverse a String](https://github.com/emlez/daily-byte/blob/main/bytes/strings/reverseString.ts)
+1. Day 2 - [Palindrome](https://github.com/emlez/daily-byte/blob/main/bytes/strings/palindrome.ts)
+1. Day 3 - [Vacuum Cleaner](https://github.com/emlez/daily-byte/blob/main/bytes/strings/vacuumCleaner.ts)
+1. Day 4 - [Correct Capitalization](https://github.com/emlez/daily-byte/blob/main/bytes/strings/correctCapitalization.ts)
+1. Day 5 - [Add Binary](https://github.com/emlez/daily-byte/blob/main/bytes/strings/addBinary.ts)
+1. Day 6 - [Longest Common Prefix](https://github.com/emlez/daily-byte/blob/main/bytes/strings/longestCommonPrefix.ts)
+1. Day 7 - [Valid Palindrome with Removal](https://github.com/emlez/daily-byte/blob/main/bytes/strings/validPalindromeWithRemoval.ts)
+
+## Week 2 - Hash Maps
+
+1. Day 8 - [Two Sum](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/twoSum.ts)
+1. Day 9 - [Jewels and Stones](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/jewelsStones.ts)
+1. Day 10 - [Valid Anagram](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/validAnagram.ts)
+1. Day 11 - [First Unique Character](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/firstUniqueCharacter.ts)
+1. Day 12 - [Spot the Difference](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/spotDifference.ts)
+1. Day 13 - [Intersection of Numbers](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/intersectionNumbers.ts)
