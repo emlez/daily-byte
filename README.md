@@ -23,3 +23,7 @@ Covering their twelve week curriculum before receiving randomly selected questio
 1. Day 12 - [Spot the Difference](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/spotDifference.ts)
 1. Day 13 - [Intersection of Numbers](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/intersectionNumbers.ts)
 1. Day 14 - [Uncommon Words](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/uncommonWords.ts)
+
+## Week 3 - Linked Lists
+
+1. Day 15 - [Merge Linked Lists - In progress](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/mergeLinkedLists.ts)
