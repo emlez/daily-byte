@@ -6,62 +6,39 @@
 // list1 = 1->3->5, list2 = 2->4->6->null, return 1->2->3->4->5->6->null
 // list1 = 4->4->7, list2 = 1->5->6->null, return 1->4->4->5->6->7->null
 
-// Ex: Given the following lists...
-
-const list1 = {
-  val: 1,
-  next: {
-    val: 2,
-    next: {
-      val: 3,
-    },
-  },
+class ListNode {
+  val: number
+  next: ListNode | null
+  constructor(val?: number, next?: ListNode | null) {
+    this.val = val === undefined ? 0 : val
+    this.next = next === undefined ? null : next
+  }
 }
 
-const list2 = {
-  val: 4,
-  next: {
-    val: 5,
-    next: {
-      val: 6,
-      next: null,
-    },
-  },
+function mergeLinkedLists(
+  list1: ListNode | null,
+  list2: ListNode | null
+): ListNode | null {
+  if (!list1) {
+    return list2
+  }
+
+  if (!list2) {
+    return list1
+  }
+
+  if (list1.val < list2.val) {
+    list1.next = mergeLinkedLists(list1.next, list2)
+    return list1
+  } else {
+    list2.next = mergeLinkedLists(list1, list2.next)
+    return list2
+  }
 }
 
-const mergeLinkedLists = (list1: { val: any; next: any } | null, list2: { val: any; next: any } | null) => {
-  let head = null
-  let tail = null
-
-  while (list1 && list2) {
-    let node = null
-
-    if (list1.val < list2.val) {
-      node = list1
-      list1 = list1.next
-    } else {
-      node = list2
-      list2 = list2.next
-    }
-
-    if (!head) {
-      head = node
-      tail = node
-    } else {
-      tail.next = node
-      tail = node
-    }
-  }
-
-  if (list1) {
-    tail.next = list1
-  }
-
-  if (list2) {
-    tail.next = list2
-  }
-
-  return head
-}
-
-console.log(mergeLinkedLists(list1, list2))
+console.log(
+  mergeLinkedLists(
+    new ListNode(1, new ListNode(2, new ListNode(3))),
+    new ListNode(4, new ListNode(5, new ListNode(6)))
+  )
+)
