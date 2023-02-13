@@ -27,3 +27,4 @@ Covering their twelve week curriculum before receiving randomly selected questio
 ## Week 3 - Linked Lists
 
 1. Day 15 - [Merge Linked Lists](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/mergeLinkedLists.ts)
+1. Day 16 - [Remove Nth Node](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/removeNthNode.ts)
