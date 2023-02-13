@@ -6,14 +6,7 @@
 // list1 = 1->3->5, list2 = 2->4->6->null, return 1->2->3->4->5->6->null
 // list1 = 4->4->7, list2 = 1->5->6->null, return 1->4->4->5->6->7->null
 
-class ListNode {
-  val: number
-  next: ListNode | null
-  constructor(val?: number, next?: ListNode | null) {
-    this.val = val === undefined ? 0 : val
-    this.next = next === undefined ? null : next
-  }
-}
+import { ListNode } from "./linkedListNode"
 
 function mergeLinkedLists(
   list1: ListNode | null,
