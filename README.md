@@ -26,9 +26,10 @@ Covering their twelve week curriculum before receiving randomly selected questio
 
 ## Week 3 - Linked Lists
 
-1. Day 15 - [Merge Linked Lists](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/mergeLinkedLists.ts)
-1. Day 16 - [Remove Nth Node](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/removeNthNode.ts)
-1. Day 17 - [Remove Value](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/removeValue.ts)
-1. Day 18 - [Find Middle Element](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/findMiddleElement.ts)
-1. Day 19 - [Contains Cycle](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/containsCycle.ts)
-1. Day 20 - [Return Start of Cycle](https://github.com/emlez/daily-byte/blob/main/bytes/hash_maps/returnStartCycle.ts)
+1. Day 15 - [Merge Linked Lists](https://github.com/emlez/daily-byte/blob/main/bytes/linked_lists/mergeLinkedLists.ts)
+1. Day 16 - [Remove Nth Node](https://github.com/emlez/daily-byte/blob/main/bytes/linked_lists/removeNthNode.ts)
+1. Day 17 - [Remove Value](https://github.com/emlez/daily-byte/blob/main/bytes/linked_lists/removeValue.ts)
+1. Day 18 - [Find Middle Element](https://github.com/emlez/daily-byte/blob/main/bytes/linked_lists/findMiddleElement.ts)
+1. Day 19 - [Contains Cycle](https://github.com/emlez/daily-byte/blob/main/bytes/linked_lists/containsCycle.ts)
+1. Day 20 - [Return Start of Cycle](https://github.com/emlez/daily-byte/blob/main/bytes/linked_lists/returnStartCycle.ts)
+1. Day 21 - [Reverse List](https://github.com/emlez/daily-byte/blob/main/bytes/linked_lists/reverseList.ts)
