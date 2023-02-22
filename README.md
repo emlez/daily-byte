@@ -38,4 +38,5 @@ Covering their twelve week curriculum before receiving randomly selected questio
 
 1. Day 22 - [Validate characters](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/validateCharacters.ts)
 1. Day 23 - [Compare keystrokes](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/compareKeystokes.ts)
-1. Day 24 - [Remove Adjacent Duplicates](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/removeAdjacentDuplicates.ts)
+1. Day 24 - [Remove adjacent duplicates](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/removeAdjacentDuplicates.ts)
+1. Day 25 - [Greater elements](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/greaterElements.ts)
