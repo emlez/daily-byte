@@ -41,3 +41,4 @@ Covering their twelve week curriculum before receiving randomly selected questio
 1. Day 24 - [Remove adjacent duplicates](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/removeAdjacentDuplicates.ts)
 1. Day 25 - [Greater elements](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/greaterElements.ts)
 1. Day 26 - [Call counter](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/callCounter.ts)
+1. Day 27 - [Moving average](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/movingAverage.ts)
