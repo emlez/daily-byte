@@ -34,7 +34,7 @@ Covering their twelve week curriculum before receiving randomly selected questio
 1. Day 20 - [Return Start of Cycle](https://github.com/emlez/daily-byte/blob/main/bytes/linked_lists/returnStartCycle.ts)
 1. Day 21 - [Reverse List](https://github.com/emlez/daily-byte/blob/main/bytes/linked_lists/reverseList.ts)
 
-# Week 4 - Stacks and Queues
+## Week 4 - Stacks and Queues
 
 1. Day 22 - [Validate characters](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/validateCharacters.ts)
 1. Day 23 - [Compare keystrokes](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/compareKeystokes.ts)
@@ -42,3 +42,4 @@ Covering their twelve week curriculum before receiving randomly selected questio
 1. Day 25 - [Greater elements](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/greaterElements.ts)
 1. Day 26 - [Call counter](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/callCounter.ts)
 1. Day 27 - [Moving average](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/movingAverage.ts)
+1. Day 28 - [Queue stack](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/queueStack.ts)
