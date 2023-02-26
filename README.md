@@ -43,3 +43,7 @@ Covering their twelve week curriculum before receiving randomly selected questio
 1. Day 26 - [Call counter](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/callCounter.ts)
 1. Day 27 - [Moving average](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/movingAverage.ts)
 1. Day 28 - [Queue stack](https://github.com/emlez/daily-byte/blob/main/bytes/stacks_queues/queueStack.ts)
+
+## Week 5 - Trees
+
+1. Day 29 - [Find value](https://github.com/emlez/daily-byte/blob/main/bytes/trees/findValue.ts)
