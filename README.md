@@ -47,3 +47,4 @@ Covering their twelve week curriculum before receiving randomly selected questio
 ## Week 5 - Trees
 
 1. Day 29 - [Find value](https://github.com/emlez/daily-byte/blob/main/bytes/trees/findValue.ts)
+1. Day 30 - [Convert Binary Search Tree to Sorted Linked List](https://github.com/emlez/daily-byte/blob/main/bytes/trees/binaryTreeToList.ts)
