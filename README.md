@@ -50,3 +50,4 @@ Covering their twelve week curriculum before receiving randomly selected questio
 1. Day 30 - [Convert Binary Search Tree to Sorted Linked List](https://github.com/emlez/daily-byte/blob/main/bytes/trees/binaryTreeToList.ts)
 1. Day 31 - [Lowest Common Ancestor](https://github.com/emlez/daily-byte/blob/main/bytes/trees/lowestCommonAncestor.ts)
 1. Day 32 - [Sort Array to Binary Search Tree](https://github.com/emlez/daily-byte/blob/main/bytes/trees/sortedArrayToBST.ts)
+1. Day 33 - [Identical Trees](https://github.com/emlez/daily-byte/blob/main/bytes/trees/identicalTrees.ts)
